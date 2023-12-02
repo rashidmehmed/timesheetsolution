@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedqueries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <savedquery>
+    <IsCustomizable>1</IsCustomizable>
+    <CanBeDeleted>0</CanBeDeleted>
+    <isquickfindquery>0</isquickfindquery>
+    <isprivate>0</isprivate>
+    <isdefault>1</isdefault>
+    <savedqueryid>{57a6751e-d0fc-4266-b604-d16d1a3534b6}</savedqueryid>
+    <layoutxml>
+      <grid name="resultset" jump="bar_title" select="1" icon="1" preview="1">
+        <row name="result" id="bar_timeentriesid">
+          <cell name="bar_title" width="300" />
+          <cell name="bar_weekstart" width="102" />
+          <cell name="bar_mon" width="100" />
+          <cell name="bar_tues" width="100" />
+          <cell name="bar_weds" width="100" />
+          <cell name="bar_thurs" width="100" />
+          <cell name="bar_fri" width="100" />
+          <cell name="bar_sat" width="100" />
+          <cell name="bar_sun" width="100" />
+          <cell name="bar_total" width="100" />
+          <cell name="bar_odatacolortag" width="100" />
+          <cell name="bar_comments" width="101" />
+        </row>
+      </grid>
+    </layoutxml>
+    <querytype>0</querytype>
+    <fetchxml>
+      <fetch version="1.0" mapping="logical">
+        <entity name="bar_timeentries">
+          <attribute name="bar_timeentriesid" />
+          <attribute name="bar_title" />
+          <attribute name="bar_mon" />
+          <attribute name="bar_tues" />
+          <attribute name="bar_weekstart" />
+          <attribute name="bar_weds" />
+          <attribute name="bar_thurs" />
+          <attribute name="bar_sat" />
+          <attribute name="bar_sun" />
+          <attribute name="bar_total" />
+          <attribute name="bar_fri" />
+          <attribute name="bar_odatacolortag" />
+          <attribute name="bar_comments" />
+        </entity>
+      </fetch>
+    </fetchxml>
+    <IntroducedVersion>1.3.0.44</IntroducedVersion>
+    <LocalizedNames>
+      <LocalizedName description="All TimeEntries" languagecode="1033" />
+    </LocalizedNames>
+  </savedquery>
+</savedqueries>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityDataSource EntityDataSourceId="{1266332f-61f3-ed11-8849-000d3ab9e893}" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>VCP_DS_4d4b54e2-3fca-44dc-ab1e-37b7152d6c2d</Name>
+  <ConnectionDefinition>%7B%0D%0A++%22DatasetValue%22%3A+%22https%25253A%25252F%25252Fnovatelbulgaria.sharepoint.com%25252Ftechies%25252Fsp%25252Fprojects%22%2C%0D%0A++%22ConnectionReference%22%3A+%22bar_SharePointsharedsharepointonl1841007da91a4c168b40b6d19eeff39e%22%2C%0D%0A++%22tenant%22%3A+null%2C%0D%0A++%22appsenvironment%22%3A+null%2C%0D%0A++%22Name%22%3A+%22VCP_DS_4d4b54e2-3fca-44dc-ab1e-37b7152d6c2d%22%2C%0D%0A++%22connectortype%22%3A+null%2C%0D%0A++%22userAuth%22%3A+%22false%22%2C%0D%0A++%22resource%22%3A+null%2C%0D%0A++%22clientid%22%3A+null%2C%0D%0A++%22ConnectorDataSource%22%3A+%221266332f-61f3-ed11-8849-000d3ab9e893%22%2C%0D%0A++%22host%22%3A+null%2C%0D%0A++%22connectionreference%22%3A+null%0D%0A%7D</ConnectionDefinition>
+  <EntityDataProviderId>{b581d5dc-72e1-ea11-a81e-000d3af5fff1}</EntityDataProviderId>
+  <IsCustomizable>1</IsCustomizable>
+</EntityDataSource>
